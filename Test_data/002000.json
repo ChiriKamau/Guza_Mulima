@@ -1,0 +1,6 @@
+  {"timestamp": "0:0:0", "lat": 0.000000, "lng": 0.000000, "altitude": 1674.59, "pressure": 827.63, "bmp_temp": 25.50, "dht_temp": 24.8, "dht_humidity": 63.0}
+,
+  {"timestamp": "0:0:0", "lat": 0.000000, "lng": 0.000000, "altitude": 1676.26, "pressure": 827.46, "bmp_temp": 26.30, "dht_temp": 25.7, "dht_humidity": 59.0}
+,
+  {"timestamp": "0:0:0", "lat": 0.000000, "lng": 0.000000, "altitude": 1676.55, "pressure": 827.43, "bmp_temp": 26.30, "dht_temp": 25.7, "dht_humidity": 59.0}
+]

@@ -1,0 +1,184 @@
+  {"timestamp": "20:40:10", "lat": -0.393108, "lng": 36.965649, "altitude": 1675.48, "pressure": 827.54, "bmp_temp": 25.50, "dht_temp": 24.8, "dht_humidity": 63.0}
+,
+  {"timestamp": "20:40:15", "lat": -0.393106, "lng": 36.965714, "altitude": 1674.69, "pressure": 827.62, "bmp_temp": 25.50, "dht_temp": 24.9, "dht_humidity": 63.0}
+,
+  {"timestamp": "20:40:20", "lat": -0.393089, "lng": 36.965778, "altitude": 1675.28, "pressure": 827.56, "bmp_temp": 25.50, "dht_temp": 24.9, "dht_humidity": 63.0}
+,
+  {"timestamp": "20:40:30", "lat": -0.393148, "lng": 36.965668, "altitude": 1675.38, "pressure": 827.55, "bmp_temp": 25.50, "dht_temp": 25.0, "dht_humidity": 63.0}
+,
+  {"timestamp": "20:40:30", "lat": -0.393148, "lng": 36.965668, "altitude": 1674.98, "pressure": 827.59, "bmp_temp": 25.50, "dht_temp": 25.1, "dht_humidity": 62.0}
+,
+  {"timestamp": "20:40:36", "lat": -0.393186, "lng": 36.965633, "altitude": 1675.28, "pressure": 827.56, "bmp_temp": 25.60, "dht_temp": 25.0, "dht_humidity": 62.0}
+,
+  {"timestamp": "20:40:41", "lat": -0.393166, "lng": 36.965649, "altitude": 1675.08, "pressure": 827.58, "bmp_temp": 25.60, "dht_temp": 25.0, "dht_humidity": 62.0}
+,
+  {"timestamp": "20:40:46", "lat": -0.393151, "lng": 36.965675, "altitude": 1675.18, "pressure": 827.57, "bmp_temp": 25.60, "dht_temp": 25.0, "dht_humidity": 62.0}
+,
+  {"timestamp": "20:40:51", "lat": -0.393099, "lng": 36.965729, "altitude": 1675.18, "pressure": 827.57, "bmp_temp": 25.60, "dht_temp": 25.0, "dht_humidity": 61.0}
+,
+  {"timestamp": "20:40:56", "lat": -0.393092, "lng": 36.965771, "altitude": 1675.18, "pressure": 827.57, "bmp_temp": 25.60, "dht_temp": 25.0, "dht_humidity": 61.0}
+,
+  {"timestamp": "20:40:56", "lat": -0.393092, "lng": 36.965771, "altitude": 1674.59, "pressure": 827.63, "bmp_temp": 25.60, "dht_temp": 25.0, "dht_humidity": 61.0}
+,
+  {"timestamp": "20:40:56", "lat": -0.393092, "lng": 36.965771, "altitude": 1675.38, "pressure": 827.55, "bmp_temp": 25.60, "dht_temp": 25.0, "dht_humidity": 61.0}
+,
+  {"timestamp": "20:41:12", "lat": -0.393059, "lng": 36.965729, "altitude": 1675.28, "pressure": 827.56, "bmp_temp": 25.60, "dht_temp": 25.0, "dht_humidity": 61.0}
+,
+  {"timestamp": "20:41:17", "lat": -0.393069, "lng": 36.965740, "altitude": 1675.48, "pressure": 827.54, "bmp_temp": 25.60, "dht_temp": 25.0, "dht_humidity": 61.0}
+,
+  {"timestamp": "20:41:22", "lat": -0.393101, "lng": 36.965721, "altitude": 1675.48, "pressure": 827.54, "bmp_temp": 25.60, "dht_temp": 25.0, "dht_humidity": 61.0}
+,
+  {"timestamp": "20:41:27", "lat": -0.393103, "lng": 36.965767, "altitude": 1674.69, "pressure": 827.62, "bmp_temp": 25.60, "dht_temp": 25.0, "dht_humidity": 61.0}
+,
+  {"timestamp": "20:41:27", "lat": -0.393103, "lng": 36.965767, "altitude": 1674.79, "pressure": 827.61, "bmp_temp": 25.60, "dht_temp": 25.0, "dht_humidity": 61.0}
+,
+  {"timestamp": "20:41:38", "lat": -0.393082, "lng": 36.965832, "altitude": 1674.89, "pressure": 827.60, "bmp_temp": 25.60, "dht_temp": 25.0, "dht_humidity": 61.0}
+,
+  {"timestamp": "20:41:43", "lat": -0.393092, "lng": 36.965858, "altitude": 1674.69, "pressure": 827.62, "bmp_temp": 25.60, "dht_temp": 25.0, "dht_humidity": 61.0}
+,
+  {"timestamp": "20:41:48", "lat": -0.393099, "lng": 36.965824, "altitude": 1674.79, "pressure": 827.61, "bmp_temp": 25.60, "dht_temp": 24.9, "dht_humidity": 61.0}
+,
+  {"timestamp": "20:41:53", "lat": -0.393095, "lng": 36.965858, "altitude": 1675.08, "pressure": 827.58, "bmp_temp": 25.60, "dht_temp": 24.9, "dht_humidity": 60.0}
+,
+  {"timestamp": "20:41:53", "lat": -0.393095, "lng": 36.965858, "altitude": 1675.08, "pressure": 827.58, "bmp_temp": 25.60, "dht_temp": 24.9, "dht_humidity": 60.0}
+,
+  {"timestamp": "20:42:4", "lat": -0.393103, "lng": 36.965778, "altitude": 1675.28, "pressure": 827.56, "bmp_temp": 25.60, "dht_temp": 24.9, "dht_humidity": 60.0}
+,
+  {"timestamp": "20:42:9", "lat": -0.393121, "lng": 36.965702, "altitude": 1675.28, "pressure": 827.56, "bmp_temp": 25.60, "dht_temp": 24.9, "dht_humidity": 60.0}
+,
+  {"timestamp": "20:42:14", "lat": -0.393121, "lng": 36.965694, "altitude": 1675.18, "pressure": 827.57, "bmp_temp": 25.60, "dht_temp": 24.9, "dht_humidity": 60.0}
+,
+  {"timestamp": "20:42:19", "lat": -0.393133, "lng": 36.965694, "altitude": 1674.69, "pressure": 827.62, "bmp_temp": 25.60, "dht_temp": 24.9, "dht_humidity": 60.0}
+,
+  {"timestamp": "20:42:25", "lat": -0.393143, "lng": 36.965729, "altitude": 1675.18, "pressure": 827.57, "bmp_temp": 25.60, "dht_temp": 25.0, "dht_humidity": 60.0}
+,
+  {"timestamp": "20:42:30", "lat": -0.393142, "lng": 36.965740, "altitude": 1674.89, "pressure": 827.60, "bmp_temp": 25.60, "dht_temp": 24.9, "dht_humidity": 60.0}
+,
+  {"timestamp": "20:42:35", "lat": -0.393130, "lng": 36.965717, "altitude": 1675.08, "pressure": 827.58, "bmp_temp": 25.60, "dht_temp": 25.0, "dht_humidity": 60.0}
+,
+  {"timestamp": "20:42:40", "lat": -0.393131, "lng": 36.965683, "altitude": 1675.38, "pressure": 827.55, "bmp_temp": 25.60, "dht_temp": 25.0, "dht_humidity": 60.0}
+,
+  {"timestamp": "20:42:40", "lat": -0.393131, "lng": 36.965683, "altitude": 1675.67, "pressure": 827.52, "bmp_temp": 25.60, "dht_temp": 25.0, "dht_humidity": 60.0}
+,
+  {"timestamp": "20:42:51", "lat": -0.393121, "lng": 36.965607, "altitude": 1674.98, "pressure": 827.59, "bmp_temp": 25.60, "dht_temp": 24.9, "dht_humidity": 60.0}
+,
+  {"timestamp": "20:42:56", "lat": -0.393133, "lng": 36.965591, "altitude": 1675.48, "pressure": 827.54, "bmp_temp": 25.60, "dht_temp": 24.9, "dht_humidity": 60.0}
+,
+  {"timestamp": "20:43:1", "lat": -0.393157, "lng": 36.965572, "altitude": 1675.38, "pressure": 827.55, "bmp_temp": 25.60, "dht_temp": 24.9, "dht_humidity": 60.0}
+,
+  {"timestamp": "20:43:1", "lat": -0.393157, "lng": 36.965572, "altitude": 1674.98, "pressure": 827.59, "bmp_temp": 25.60, "dht_temp": 24.9, "dht_humidity": 60.0}
+,
+  {"timestamp": "20:43:12", "lat": -0.393125, "lng": 36.965504, "altitude": 1675.28, "pressure": 827.56, "bmp_temp": 25.70, "dht_temp": 24.9, "dht_humidity": 60.0}
+,
+  {"timestamp": "20:43:17", "lat": -0.393078, "lng": 36.965477, "altitude": 1675.18, "pressure": 827.57, "bmp_temp": 25.70, "dht_temp": 24.9, "dht_humidity": 60.0}
+,
+  {"timestamp": "20:43:17", "lat": -0.393078, "lng": 36.965477, "altitude": 1675.18, "pressure": 827.57, "bmp_temp": 25.70, "dht_temp": 24.9, "dht_humidity": 60.0}
+,
+  {"timestamp": "20:43:28", "lat": -0.393098, "lng": 36.965446, "altitude": 1675.57, "pressure": 827.53, "bmp_temp": 25.70, "dht_temp": 24.9, "dht_humidity": 60.0}
+,
+  {"timestamp": "20:43:33", "lat": -0.393138, "lng": 36.965446, "altitude": 1675.87, "pressure": 827.50, "bmp_temp": 25.70, "dht_temp": 24.9, "dht_humidity": 60.0}
+,
+  {"timestamp": "20:43:58", "lat": -0.393170, "lng": 36.965607, "altitude": 1674.98, "pressure": 827.59, "bmp_temp": 25.70, "dht_temp": 24.9, "dht_humidity": 60.0}
+,
+  {"timestamp": "20:44:25", "lat": -0.393097, "lng": 36.965332, "altitude": 1675.67, "pressure": 827.52, "bmp_temp": 25.70, "dht_temp": 24.9, "dht_humidity": 60.0}
+,
+  {"timestamp": "20:44:31", "lat": -0.393161, "lng": 36.965527, "altitude": 1674.98, "pressure": 827.59, "bmp_temp": 25.70, "dht_temp": 24.9, "dht_humidity": 60.0}
+,
+  {"timestamp": "20:44:36", "lat": -0.393212, "lng": 36.965588, "altitude": 1675.18, "pressure": 827.57, "bmp_temp": 25.70, "dht_temp": 25.0, "dht_humidity": 60.0}
+,
+  {"timestamp": "20:44:41", "lat": -0.393208, "lng": 36.965622, "altitude": 1675.28, "pressure": 827.56, "bmp_temp": 25.70, "dht_temp": 25.0, "dht_humidity": 60.0}
+,
+  {"timestamp": "20:44:41", "lat": -0.393208, "lng": 36.965622, "altitude": 1675.38, "pressure": 827.55, "bmp_temp": 25.80, "dht_temp": 25.0, "dht_humidity": 60.0}
+,
+  {"timestamp": "20:44:52", "lat": -0.393171, "lng": 36.965813, "altitude": 1675.48, "pressure": 827.54, "bmp_temp": 25.80, "dht_temp": 25.0, "dht_humidity": 61.0}
+,
+  {"timestamp": "20:44:57", "lat": -0.393161, "lng": 36.965878, "altitude": 1675.28, "pressure": 827.56, "bmp_temp": 25.80, "dht_temp": 25.0, "dht_humidity": 61.0}
+,
+  {"timestamp": "20:44:57", "lat": -0.393161, "lng": 36.965878, "altitude": 1675.08, "pressure": 827.58, "bmp_temp": 25.80, "dht_temp": 25.0, "dht_humidity": 62.0}
+,
+  {"timestamp": "20:45:8", "lat": -0.393000, "lng": 36.965939, "altitude": 1675.77, "pressure": 827.51, "bmp_temp": 25.80, "dht_temp": 25.0, "dht_humidity": 62.0}
+,
+  {"timestamp": "20:45:13", "lat": -0.392948, "lng": 36.965855, "altitude": 1675.38, "pressure": 827.55, "bmp_temp": 25.80, "dht_temp": 25.0, "dht_humidity": 62.0}
+,
+  {"timestamp": "20:45:13", "lat": -0.392948, "lng": 36.965855, "altitude": 1675.38, "pressure": 827.55, "bmp_temp": 25.80, "dht_temp": 25.0, "dht_humidity": 62.0}
+,
+  {"timestamp": "20:45:24", "lat": -0.392971, "lng": 36.965771, "altitude": 1675.38, "pressure": 827.55, "bmp_temp": 25.80, "dht_temp": 25.1, "dht_humidity": 62.0}
+,
+  {"timestamp": "20:45:29", "lat": -0.392984, "lng": 36.965748, "altitude": 1675.77, "pressure": 827.51, "bmp_temp": 25.90, "dht_temp": 25.1, "dht_humidity": 62.0}
+,
+  {"timestamp": "20:45:34", "lat": -0.392991, "lng": 36.965683, "altitude": 1675.48, "pressure": 827.54, "bmp_temp": 25.90, "dht_temp": 25.1, "dht_humidity": 62.0}
+,
+  {"timestamp": "20:45:40", "lat": -0.392954, "lng": 36.965576, "altitude": 1675.18, "pressure": 827.57, "bmp_temp": 25.90, "dht_temp": 25.1, "dht_humidity": 62.0}
+,
+  {"timestamp": "20:45:45", "lat": -0.392935, "lng": 36.965538, "altitude": 1675.48, "pressure": 827.54, "bmp_temp": 25.90, "dht_temp": 25.1, "dht_humidity": 62.0}
+,
+  {"timestamp": "20:45:45", "lat": -0.392935, "lng": 36.965538, "altitude": 1675.67, "pressure": 827.52, "bmp_temp": 25.90, "dht_temp": 25.1, "dht_humidity": 62.0}
+,
+  {"timestamp": "20:45:56", "lat": -0.392937, "lng": 36.965549, "altitude": 1675.67, "pressure": 827.52, "bmp_temp": 25.90, "dht_temp": 25.1, "dht_humidity": 61.0}
+,
+  {"timestamp": "20:46:1", "lat": -0.392969, "lng": 36.965630, "altitude": 1675.18, "pressure": 827.57, "bmp_temp": 25.90, "dht_temp": 25.1, "dht_humidity": 61.0}
+,
+  {"timestamp": "20:46:1", "lat": -0.392969, "lng": 36.965630, "altitude": 1675.77, "pressure": 827.51, "bmp_temp": 25.90, "dht_temp": 25.2, "dht_humidity": 61.0}
+,
+  {"timestamp": "20:46:12", "lat": -0.392993, "lng": 36.965660, "altitude": 1676.06, "pressure": 827.48, "bmp_temp": 25.90, "dht_temp": 25.2, "dht_humidity": 61.0}
+,
+  {"timestamp": "20:57:21", "lat": -0.392925, "lng": 36.965721, "altitude": 1676.16, "pressure": 827.47, "bmp_temp": 26.20, "dht_temp": 25.7, "dht_humidity": 58.0}
+,
+  {"timestamp": "20:57:26", "lat": -0.392687, "lng": 36.965588, "altitude": 1676.16, "pressure": 827.47, "bmp_temp": 26.20, "dht_temp": 25.7, "dht_humidity": 58.0}
+,
+  {"timestamp": "20:57:31", "lat": -0.392776, "lng": 36.965607, "altitude": 1677.05, "pressure": 827.38, "bmp_temp": 26.20, "dht_temp": 25.7, "dht_humidity": 58.0}
+,
+  {"timestamp": "20:57:31", "lat": -0.392776, "lng": 36.965607, "altitude": 1676.46, "pressure": 827.44, "bmp_temp": 26.20, "dht_temp": 25.7, "dht_humidity": 58.0}
+,
+  {"timestamp": "20:57:42", "lat": -0.393089, "lng": 36.965740, "altitude": 1675.77, "pressure": 827.51, "bmp_temp": 26.20, "dht_temp": 25.7, "dht_humidity": 58.0}
+,
+  {"timestamp": "20:57:47", "lat": -0.393161, "lng": 36.965771, "altitude": 1675.77, "pressure": 827.51, "bmp_temp": 26.20, "dht_temp": 25.7, "dht_humidity": 58.0}
+,
+  {"timestamp": "20:57:53", "lat": -0.393146, "lng": 36.965752, "altitude": 1676.55, "pressure": 827.43, "bmp_temp": 26.20, "dht_temp": 25.7, "dht_humidity": 58.0}
+,
+  {"timestamp": "20:57:58", "lat": -0.393153, "lng": 36.965729, "altitude": 1676.36, "pressure": 827.45, "bmp_temp": 26.20, "dht_temp": 25.6, "dht_humidity": 58.0}
+,
+  {"timestamp": "20:57:58", "lat": -0.393153, "lng": 36.965729, "altitude": 1675.87, "pressure": 827.50, "bmp_temp": 26.20, "dht_temp": 25.6, "dht_humidity": 58.0}
+,
+  {"timestamp": "20:58:9", "lat": -0.393128, "lng": 36.965672, "altitude": 1676.75, "pressure": 827.41, "bmp_temp": 26.20, "dht_temp": 25.6, "dht_humidity": 58.0}
+,
+  {"timestamp": "20:58:14", "lat": -0.393165, "lng": 36.965706, "altitude": 1676.65, "pressure": 827.42, "bmp_temp": 26.20, "dht_temp": 25.6, "dht_humidity": 58.0}
+,
+  {"timestamp": "20:58:20", "lat": -0.393185, "lng": 36.965714, "altitude": 1676.95, "pressure": 827.39, "bmp_temp": 26.20, "dht_temp": 25.6, "dht_humidity": 58.0}
+,
+  {"timestamp": "20:58:25", "lat": -0.393126, "lng": 36.965725, "altitude": 1676.16, "pressure": 827.47, "bmp_temp": 26.10, "dht_temp": 25.6, "dht_humidity": 58.0}
+,
+  {"timestamp": "20:58:25", "lat": -0.393126, "lng": 36.965725, "altitude": 1675.18, "pressure": 827.57, "bmp_temp": 26.10, "dht_temp": 25.6, "dht_humidity": 58.0}
+,
+  {"timestamp": "20:58:36", "lat": -0.393156, "lng": 36.965710, "altitude": 1675.97, "pressure": 827.49, "bmp_temp": 26.10, "dht_temp": 25.6, "dht_humidity": 58.0}
+,
+  {"timestamp": "20:58:41", "lat": -0.393161, "lng": 36.965683, "altitude": 1676.75, "pressure": 827.41, "bmp_temp": 26.10, "dht_temp": 25.6, "dht_humidity": 58.0}
+,
+  {"timestamp": "20:58:47", "lat": -0.393133, "lng": 36.965672, "altitude": 1676.06, "pressure": 827.48, "bmp_temp": 26.10, "dht_temp": 25.5, "dht_humidity": 58.0}
+,
+  {"timestamp": "20:58:52", "lat": -0.393122, "lng": 36.965672, "altitude": 1675.57, "pressure": 827.53, "bmp_temp": 26.10, "dht_temp": 25.5, "dht_humidity": 58.0}
+,
+  {"timestamp": "20:58:52", "lat": -0.393122, "lng": 36.965672, "altitude": 1676.26, "pressure": 827.46, "bmp_temp": 26.10, "dht_temp": 25.5, "dht_humidity": 58.0}
+,
+  {"timestamp": "20:59:3", "lat": -0.393133, "lng": 36.965664, "altitude": 1676.55, "pressure": 827.43, "bmp_temp": 26.10, "dht_temp": 25.5, "dht_humidity": 58.0}
+,
+  {"timestamp": "20:59:8", "lat": -0.393153, "lng": 36.965672, "altitude": 1676.26, "pressure": 827.46, "bmp_temp": 26.10, "dht_temp": 25.5, "dht_humidity": 58.0}
+,
+  {"timestamp": "20:59:14", "lat": -0.393155, "lng": 36.965664, "altitude": 1676.85, "pressure": 827.40, "bmp_temp": 26.10, "dht_temp": 25.5, "dht_humidity": 58.0}
+,
+  {"timestamp": "20:59:19", "lat": -0.393117, "lng": 36.965645, "altitude": 1676.06, "pressure": 827.48, "bmp_temp": 26.10, "dht_temp": 25.5, "dht_humidity": 58.0}
+,
+  {"timestamp": "20:59:25", "lat": -0.393071, "lng": 36.965626, "altitude": 1676.95, "pressure": 827.39, "bmp_temp": 26.10, "dht_temp": 25.5, "dht_humidity": 58.0}
+,
+  {"timestamp": "20:59:30", "lat": -0.393060, "lng": 36.965603, "altitude": 1676.26, "pressure": 827.46, "bmp_temp": 26.10, "dht_temp": 25.5, "dht_humidity": 58.0}
+,
+  {"timestamp": "20:59:36", "lat": -0.392902, "lng": 36.965427, "altitude": 1676.26, "pressure": 827.46, "bmp_temp": 26.10, "dht_temp": 25.5, "dht_humidity": 58.0}
+,
+  {"timestamp": "20:59:41", "lat": -0.392783, "lng": 36.965359, "altitude": 1676.55, "pressure": 827.43, "bmp_temp": 26.10, "dht_temp": 25.5, "dht_humidity": 59.0}
+,
+  {"timestamp": "21:0:55", "lat": -0.393097, "lng": 36.965744, "altitude": 1675.77, "pressure": 827.51, "bmp_temp": 26.20, "dht_temp": 25.5, "dht_humidity": 59.0}
+,
+  {"timestamp": "21:1:55", "lat": -0.393166, "lng": 36.965794, "altitude": 1675.87, "pressure": 827.50, "bmp_temp": 26.10, "dht_temp": 25.4, "dht_humidity": 59.0}
+,
+  {"timestamp": "21:2:55", "lat": -0.393140, "lng": 36.965549, "altitude": 1675.67, "pressure": 827.52, "bmp_temp": 26.20, "dht_temp": 25.5, "dht_humidity": 59.0}
+]

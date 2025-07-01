@@ -1,0 +1,215 @@
+[
+]
+,
+  {"timestamp": "0:0:0", "lat": 0.000000, "lng": 0.000000, "altitude": 1673.12, "atm_temp": 26.4, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 26.0, "dht_humidity": 58.0}
+],
+  {"timestamp": "19:51:18", "lat": -0.393093, "lng": 36.965687, "altitude": 1673.91, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 26.0, "dht_humidity": 58.0}
+],
+  {"timestamp": "19:51:23", "lat": -0.393099, "lng": 36.965691, "altitude": 1674.00, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:51:23", "lat": -0.393099, "lng": 36.965691, "altitude": 1673.32, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:51:23", "lat": -0.393099, "lng": 36.965691, "altitude": 1673.71, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.8, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:51:39", "lat": -0.393154, "lng": 36.965672, "altitude": 1673.91, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.8, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:51:44", "lat": -0.393179, "lng": 36.965672, "altitude": 1673.91, "atm_temp": 26.4, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.8, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:51:49", "lat": -0.393160, "lng": 36.965652, "altitude": 1673.91, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.8, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:51:54", "lat": -0.393169, "lng": 36.965549, "altitude": 1674.00, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.8, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:51:59", "lat": -0.393177, "lng": 36.965511, "altitude": 1673.71, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.8, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:52:4", "lat": -0.393168, "lng": 36.965469, "altitude": 1673.81, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.8, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:52:4", "lat": -0.393168, "lng": 36.965469, "altitude": 1673.51, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.8, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:52:4", "lat": -0.393168, "lng": 36.965469, "altitude": 1673.42, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.8, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:52:20", "lat": -0.393151, "lng": 36.965534, "altitude": 1673.22, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.8, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:52:25", "lat": -0.393152, "lng": 36.965595, "altitude": 1673.91, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.8, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:52:30", "lat": -0.393140, "lng": 36.965637, "altitude": 1673.51, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.8, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:52:35", "lat": -0.393135, "lng": 36.965656, "altitude": 1673.61, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.8, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:52:40", "lat": -0.393145, "lng": 36.965683, "altitude": 1673.71, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.8, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:52:45", "lat": -0.393186, "lng": 36.965645, "altitude": 1673.81, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:52:45", "lat": -0.393186, "lng": 36.965645, "altitude": 1673.81, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.8, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:52:45", "lat": -0.393186, "lng": 36.965645, "altitude": 1673.61, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.8, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:53:1", "lat": -0.393138, "lng": 36.965668, "altitude": 1673.32, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:53:6", "lat": -0.393126, "lng": 36.965679, "altitude": 1673.91, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:53:11", "lat": -0.393164, "lng": 36.965691, "altitude": 1673.61, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:53:16", "lat": -0.393169, "lng": 36.965694, "altitude": 1674.10, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:53:21", "lat": -0.393136, "lng": 36.965706, "altitude": 1673.91, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:53:26", "lat": -0.393126, "lng": 36.965687, "altitude": 1673.61, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:53:26", "lat": -0.393126, "lng": 36.965687, "altitude": 1673.61, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "0:0:0", "lat": 0.000000, "lng": 0.000000, "altitude": 1673.81, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 58.0}
+],
+  {"timestamp": "0:0:0", "lat": 0.000000, "lng": 0.000000, "altitude": 1673.42, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 58.0}
+],
+  {"timestamp": "19:53:52", "lat": -0.393139, "lng": 36.965668, "altitude": 1673.61, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 58.0}
+],
+  {"timestamp": "19:53:57", "lat": -0.393164, "lng": 36.965603, "altitude": 1673.71, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 58.0}
+],
+  {"timestamp": "19:54:2", "lat": -0.393217, "lng": 36.965542, "altitude": 1673.81, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 58.0}
+],
+  {"timestamp": "19:54:7", "lat": -0.393211, "lng": 36.965538, "altitude": 1673.32, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 58.0}
+],
+  {"timestamp": "19:54:12", "lat": -0.393218, "lng": 36.965508, "altitude": 1673.42, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 58.0}
+],
+  {"timestamp": "19:54:17", "lat": -0.393239, "lng": 36.965511, "altitude": 1673.71, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 58.0}
+],
+  {"timestamp": "19:54:17", "lat": -0.393239, "lng": 36.965511, "altitude": 1674.20, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "0:0:0", "lat": 0.000000, "lng": 0.000000, "altitude": 1673.51, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "0:0:0", "lat": 0.000000, "lng": 0.000000, "altitude": 1673.91, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "0:0:0", "lat": 0.000000, "lng": 0.000000, "altitude": 1673.91, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:54:48", "lat": -0.393107, "lng": 36.965622, "altitude": 1674.30, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "0:0:0", "lat": 0.000000, "lng": 0.000000, "altitude": 1674.00, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:55:1", "lat": -0.393074, "lng": 36.965652, "altitude": 1674.30, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:55:6", "lat": -0.392920, "lng": 36.965725, "altitude": 1674.30, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:55:16", "lat": -0.392969, "lng": 36.965755, "altitude": 1674.40, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:55:16", "lat": -0.392969, "lng": 36.965755, "altitude": 1674.00, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:55:16", "lat": -0.392969, "lng": 36.965755, "altitude": 1674.00, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:55:27", "lat": -0.392971, "lng": 36.965786, "altitude": 1673.71, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:55:32", "lat": -0.392959, "lng": 36.965893, "altitude": 1674.10, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 60.0}
+],
+  {"timestamp": "19:55:37", "lat": -0.392955, "lng": 36.965912, "altitude": 1673.51, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 60.0}
+],
+  {"timestamp": "19:55:42", "lat": -0.392982, "lng": 36.965904, "altitude": 1674.59, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 60.0}
+],
+  {"timestamp": "0:0:0", "lat": 0.000000, "lng": 0.000000, "altitude": 1674.10, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "0:0:0", "lat": 0.000000, "lng": 0.000000, "altitude": 1674.20, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:56:1", "lat": -0.393042, "lng": 36.965767, "altitude": 1674.40, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:56:6", "lat": -0.393034, "lng": 36.965736, "altitude": 1674.40, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:56:11", "lat": -0.393059, "lng": 36.965733, "altitude": 1674.30, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:56:16", "lat": -0.393056, "lng": 36.965729, "altitude": 1674.10, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:56:21", "lat": -0.393060, "lng": 36.965721, "altitude": 1674.30, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:56:26", "lat": -0.393045, "lng": 36.965725, "altitude": 1674.00, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:56:31", "lat": -0.393033, "lng": 36.965702, "altitude": 1674.20, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:56:31", "lat": -0.393033, "lng": 36.965702, "altitude": 1674.59, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:56:42", "lat": -0.393026, "lng": 36.965687, "altitude": 1674.40, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:56:47", "lat": -0.393036, "lng": 36.965694, "altitude": 1673.91, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 26.0, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:56:52", "lat": -0.393047, "lng": 36.965710, "altitude": 1673.91, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 26.0, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:56:57", "lat": -0.393056, "lng": 36.965710, "altitude": 1674.20, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 26.0, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:57:2", "lat": -0.393087, "lng": 36.965691, "altitude": 1674.30, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 26.0, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:57:7", "lat": -0.393075, "lng": 36.965679, "altitude": 1674.30, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 26.0, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:57:12", "lat": -0.393013, "lng": 36.965668, "altitude": 1674.00, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "0:0:0", "lat": 0.000000, "lng": 0.000000, "altitude": 1673.81, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:57:29", "lat": -0.392996, "lng": 36.965679, "altitude": 1673.61, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:57:29", "lat": -0.392996, "lng": 36.965679, "altitude": 1673.42, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:57:29", "lat": -0.392996, "lng": 36.965679, "altitude": 1674.00, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:57:40", "lat": -0.393080, "lng": 36.965698, "altitude": 1673.81, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:57:45", "lat": -0.393108, "lng": 36.965683, "altitude": 1673.81, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:57:50", "lat": -0.393138, "lng": 36.965672, "altitude": 1673.42, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 59.0}
+],
+  {"timestamp": "19:57:55", "lat": -0.393114, "lng": 36.965664, "altitude": 1673.81, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 60.0}
+],
+  {"timestamp": "19:58:0", "lat": -0.393090, "lng": 36.965694, "altitude": 1673.22, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 60.0}
+],
+  {"timestamp": "19:58:5", "lat": -0.393044, "lng": 36.965698, "altitude": 1673.51, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 60.0}
+],
+  {"timestamp": "19:58:5", "lat": -0.393044, "lng": 36.965698, "altitude": 1673.51, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 60.0}
+],
+  {"timestamp": "19:58:5", "lat": -0.393044, "lng": 36.965698, "altitude": 1673.81, "atm_temp": 26.5, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 60.0}
+],
+  {"timestamp": "19:58:21", "lat": -0.393075, "lng": 36.965694, "altitude": 1673.51, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 60.0}
+],
+  {"timestamp": "19:58:26", "lat": -0.393115, "lng": 36.965767, "altitude": 1673.42, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 60.0}
+],
+  {"timestamp": "19:58:31", "lat": -0.393141, "lng": 36.965790, "altitude": 1673.32, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 60.0}
+],
+  {"timestamp": "19:58:36", "lat": -0.393161, "lng": 36.965775, "altitude": 1673.51, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 60.0}
+],
+  {"timestamp": "19:58:46", "lat": -0.393141, "lng": 36.965691, "altitude": 1673.51, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 60.0}
+],
+  {"timestamp": "19:58:46", "lat": -0.393141, "lng": 36.965691, "altitude": 1673.71, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 25.9, "dht_humidity": 60.0}
+],
+  {"timestamp": "19:58:46", "lat": -0.393141, "lng": 36.965691, "altitude": 1673.02, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 26.0, "dht_humidity": 60.0}
+],
+  {"timestamp": "19:58:57", "lat": -0.393065, "lng": 36.965649, "altitude": 1673.12, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 26.0, "dht_humidity": 61.0}
+],
+  {"timestamp": "19:59:2", "lat": -0.393092, "lng": 36.965664, "altitude": 1673.32, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 26.0, "dht_humidity": 61.0}
+],
+  {"timestamp": "19:59:7", "lat": -0.393176, "lng": 36.965572, "altitude": 1673.12, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 26.1, "dht_humidity": 61.0}
+],
+  {"timestamp": "19:59:12", "lat": -0.393166, "lng": 36.965580, "altitude": 1673.02, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 26.1, "dht_humidity": 61.0}
+],
+  {"timestamp": "19:59:17", "lat": -0.393236, "lng": 36.965511, "altitude": 1672.93, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 26.1, "dht_humidity": 62.0}
+],
+  {"timestamp": "19:59:27", "lat": -0.393225, "lng": 36.965614, "altitude": 1672.83, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 26.1, "dht_humidity": 62.0}
+],
+  {"timestamp": "19:59:27", "lat": -0.393225, "lng": 36.965614, "altitude": 1673.02, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 26.0, "dht_humidity": 62.0}
+],
+  {"timestamp": "19:59:27", "lat": -0.393225, "lng": 36.965614, "altitude": 1673.02, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 26.0, "dht_humidity": 61.0}
+],
+  {"timestamp": "19:59:38", "lat": -0.393101, "lng": 36.965633, "altitude": 1673.81, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 26.0, "dht_humidity": 61.0}
+],
+  {"timestamp": "19:59:43", "lat": -0.393082, "lng": 36.965656, "altitude": 1672.93, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 26.0, "dht_humidity": 61.0}
+],
+  {"timestamp": "19:59:48", "lat": -0.393135, "lng": 36.965618, "altitude": 1673.51, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 26.0, "dht_humidity": 60.0}
+],
+  {"timestamp": "19:59:53", "lat": -0.393198, "lng": 36.965611, "altitude": 1673.42, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 26.0, "dht_humidity": 60.0}
+],
+  {"timestamp": "19:59:58", "lat": -0.393273, "lng": 36.965687, "altitude": 1672.93, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 26.0, "dht_humidity": 60.0}
+],
+  {"timestamp": "20:0:3", "lat": -0.393365, "lng": 36.965717, "altitude": 1672.53, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 26.0, "dht_humidity": 60.0}
+],
+  {"timestamp": "20:0:8", "lat": -0.393363, "lng": 36.965687, "altitude": 1672.63, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 26.0, "dht_humidity": 60.0}
+],
+  {"timestamp": "20:0:8", "lat": -0.393363, "lng": 36.965687, "altitude": 1673.02, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 26.0, "dht_humidity": 60.0}
+],
+  {"timestamp": "20:0:19", "lat": -0.393218, "lng": 36.965672, "altitude": 1672.73, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 26.0, "dht_humidity": 60.0}
+],
+  {"timestamp": "20:0:24", "lat": -0.393158, "lng": 36.965637, "altitude": 1673.32, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 26.0, "dht_humidity": 60.0}
+],
+  {"timestamp": "20:0:29", "lat": -0.393161, "lng": 36.965721, "altitude": 1672.53, "atm_temp": 26.6, "imu_temp_x": 0.00, "imu_temp_y": 0.00, "imu_temp_z": 0.00, "dht_temp": 26.0, "dht_humidity": 60.0}
+]

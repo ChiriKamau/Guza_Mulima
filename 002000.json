@@ -1,0 +1,14 @@
+  {"timestamp": "0:0:0", "lat": 0.000000, "lng": 0.000000, "altitude": 1680.28, "pressure": 827.05, "bmp_temp": 24.00, "dht_temp": nan, "dht_humidity": nan}
+,
+  {"timestamp": "0:0:0", "lat": 0.000000, "lng": 0.000000, "altitude": 1680.09, "pressure": 827.07, "bmp_temp": 24.10, "dht_temp": nan, "dht_humidity": nan}
+,
+  {"timestamp": "0:0:0", "lat": 0.000000, "lng": 0.000000, "altitude": 1679.40, "pressure": 827.14, "bmp_temp": 24.30, "dht_temp": nan, "dht_humidity": nan}
+,
+  {"timestamp": "0:0:0", "lat": 0.000000, "lng": 0.000000, "altitude": 1679.50, "pressure": 827.13, "bmp_temp": 24.30, "dht_temp": nan, "dht_humidity": nan}
+,
+  {"timestamp": "7:17:38", "lat": -0.393040, "lng": 36.965706, "altitude": 1679.60, "pressure": 827.12, "bmp_temp": 24.70, "dht_temp": 24.2, "dht_humidity": 71.0}
+,
+  {"timestamp": "0:0:0", "lat": 0.000000, "lng": 0.000000, "altitude": 1876.60, "pressure": 807.24, "bmp_temp": 29.40, "dht_temp": nan, "dht_humidity": nan}
+,
+  {"timestamp": "0:0:0", "lat": 0.000000, "lng": 0.000000, "altitude": 1891.32, "pressure": 805.77, "bmp_temp": 28.90, "dht_temp": 27.9, "dht_humidity": 49.0}
+]
